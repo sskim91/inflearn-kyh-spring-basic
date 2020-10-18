@@ -1,6 +1,6 @@
 package com.inflearn.hellospring.config;
 
-import com.inflearn.hellospring.repository.*;
+import com.inflearn.hellospring.repository.MemberRepository;
 import com.inflearn.hellospring.service.MemberService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
