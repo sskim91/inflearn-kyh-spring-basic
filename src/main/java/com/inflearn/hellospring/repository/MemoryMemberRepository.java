@@ -1,6 +1,7 @@
 package com.inflearn.hellospring.repository;
 
 import com.inflearn.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
